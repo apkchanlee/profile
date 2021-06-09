@@ -1,0 +1,106 @@
+<html><head>
+    
+  <?php include '../style.php';?>
+
+    <title>Privacy Policy</title>
+            <style>
+                .togglebody {
+                padding: 25px;
+                background-color: #eee;
+                color: #444;
+                }
+
+                .dark-mode {
+                background-color: #222;
+                color: #999;
+                }
+
+                p{
+                    font-size: 16px;
+                }
+
+                ul{
+                    font-size: 15px;
+                }
+
+                h3{
+                    margin: 25px 0px 15px 0px;
+                }
+
+                .float{
+                    position:fixed;
+                    width:60px;
+                    height:60px;
+                    bottom:40px;
+                    right:40px;
+                    background-color:#033;
+                    color:#7ff;
+                    border-radius:50px;
+                    text-align:center;
+                    box-shadow: 2px 2px 3px #999;
+                }
+
+                .my-float{
+                    margin-top:10px;
+                    font-size: 40px;
+                    color: #fff;
+                }
+
+            </style>
+            <script>
+                function myFunction() {
+                var element = document.body;
+                element.classList.toggle("dark-mode");
+                }
+            </script>
+</head>
+<body class="togglebody">
+
+        <a onclick="myFunction()" class="float">
+            <i class="fas fa-sun my-float"></i>
+        </a>
+
+<div class="container" style="text-align:justify;">
+
+<h1>Privacy Policy for Compass:</h1>
+<h2>WHO WE ARE</h2>
+<p> ApkChanlee operate the www.chandru.tech website and apkchanlee developer account. 
+</p>   
+
+<h3>IMPORTANT INFORMATION</h3>
+<p>This Privacy Policy document contains types of information that is collected and recorded by www.chandru.tech and how we use it.<br>
+    If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.<br>
+    This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in www.apkchanlee.com. This policy is not applicable to any information collected offline or via channels other than this website.
+    </p>
+
+<h3>CONSENT</h3>
+<p>Please read this Privacy Policy carefully. By accessing our Site, using our services and, where relevant, expressly accepting this policy, you acknowledge that you have read and agreed to the terms of this Privacy Policy. If you do not agree to this Privacy Policy please do not use our Site.
+<br>    We respect your right to privacy and will only process personal information you provide to us in accordance with the applicable privacy legislation in the jurisdictions in which we operate and any national implementing laws, regulations and secondary legislation, as amended or updated from time to time.
+<br>    </p>
+
+<h3>CHANGES TO THE PRIVACY POLICY AND YOUR DUTY TO INFORM US OF CHANGES</h3>
+   <p> We may from time to time, make changes to this Privacy Policy. We will set out any important changes at the end of the Privacy Policy and you should check back regularly to check to see if there have been any changes to this Privacy Policy.
+    It is important that the personal data we hold about you is accurate and current. Please keep us informed if your personal data changes your relationship with us.
+    </p>
+<h3>CHANGE OF PURPOSE</h3>
+<p>
+We will only use your personal data for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If you wish to receive an explanation as to how the processing for the new purpose is compatible with the original purpose please contact us at info.manager@sunshine-mytutor.com. If we need to use your personal data for an unrelated purpose, we will notify you and we will explain the legal basis which allows us to do so.<br>
+Please note that we may process your personal data without your knowledge or consent, in compliance with the above rules, where this is required or permitted by law.
+</p>
+<h3>INFORMATION WE COLLECT</h3>
+The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
+<br> Temporarily we didn't collect any informations.
+
+<h3>CONTROLLER</h3>
+
+<p>Our Site is operated by www.chandru.tech, acting as a data controller, 
+("We" or "ApkChanlee").</p>
+
+
+<h3>CONTACT DETAILS</h3>
+<p>If you have any questions about how we collect, store and use personal information or if you have any other privacy-related questions, please contact us by any of the following means:
+<br>phone us at: +91 86673 56341
+<br>e-mail us at: apkchanlee@gmail.com; or
+<br>write to us at our official website.</p>
+
+</div></body></html>
