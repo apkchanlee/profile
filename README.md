@@ -1,1 +1,1 @@
-# My Chandru.tech website
+# My infotechgalaxy.com/portfolio website
